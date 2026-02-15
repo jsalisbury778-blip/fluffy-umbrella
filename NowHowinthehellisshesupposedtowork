@@ -1,0 +1,309 @@
+Tell me how anyone is supposed to have control over their own lives. When every goddamn app and and webpage is coded for human slavery 
+
+!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+    <meta charset="UTF-8"/>
+    
+        <title>
+            Explore a Platform That Moves You Forever Forward | Contact Sales | Workday US
+        </title>
+    
+    <!-- <title>form</title> -->
+    
+    <meta name="description" content="Discover the benefits of the AI-powered platform today. Contact our sales team to learn or get more information about our cloud-based applications."/>
+    <meta name="template" content="contact-sales-template"/>
+    
+        
+        <meta name="siteid" content="us"/>
+        <meta name="countryid" content="US"/>
+        <meta name="country" content="United States"/>
+        <meta name="Language" content="en"/>
+    
+    
+
+    
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width"/>
+
+
+
+
+<meta property="cq:pagemodel_root_url" content="/en-us/sales/sales-contact.model.json"/>
+
+<meta name="keywords" content="Workday contact sales, Workday sales contact, Workday sales number, Workday sales request"/>
+<meta property="og:title" content="Discover the Benefits of Workday | Contact Sales | Workday"/>
+<meta property="og:description" content="The Workday sales team is here for you. "/>
+<meta property="og:image" content="https://forms.workday.com/content/dam/web/en-us/images/social/workday-og-theme.png"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:url"/>
+<meta name="twitter:site" content="@Workday"/>
+<meta name="twitter:creator" content="@Workday"/>
+<meta name="twitter:title" content="Discover the Benefits of Workday | Contact Sales | Workday"/>
+<meta name="twitter:description" content="The Workday sales team is here for you."/>
+<meta name="twitter:image" content="https://forms.workday.com/content/dam/web/en-us/images/social/workday-og-theme.png"/>
+
+
+<script defer="defer" type="text/javascript" src="https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js" data-routing="env=prod,tier=publish,ams=Workday"></script>
+<link rel="canonical" href="https://forms.workday.com/en-us/sales/sales-contact/form.html"/>
+
+<meta name="ROBOTS" content="follow,index"/>
+<link as="font" href="https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Regular.woff2" type="font/woff2" crossorigin="anonymous"/>
+<link as="font" href="https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Medium.woff2" type="font/woff2" crossorigin="anonymous"/>
+<link as="font" href="https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Bold.woff2" type="font/woff2" crossorigin="anonymous"/>
+<link as="font" href="https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Extrabold.woff2" type="font/woff2" crossorigin="anonymous"/>
+<script src="//info.workday.com/js/forms2/js/forms2.min.js"></script>
+
+
+<script type="text/javascript">
+  var siteData = (function () {
+    return {
+      getBreadcrumbs: function () {
+        try {
+          var result = '';
+          var breadcrumb = document.querySelector('div.breadcrumb');
+          if (breadcrumb) {
+            // Not all pages have a breadcrumb
+            var breadcrumbChildren = breadcrumb.children;
+            for (var i = 0; i < breadcrumbChildren.length; i++) {
+              //The maximum amount of items, for the time being, is 2
+              if (i > 0 && i / 2 != 1) {
+                result += ':';
+              } else {
+                result += breadcrumbChildren[i].innerHTML;
+              }
+              if (breadcrumbChildren.length == 2 && i === 0) {
+                result += ':';
+              }
+            }
+          }
+          return result;
+        } catch (e) {
+          console.warn(e);
+        }
+      },
+      getBlogCategories: function () {
+        try {
+          var result = '';
+          var categories = document.querySelectorAll(
+            '.post-summary .cmp-list__item-tags .cmp-list__item-tags-name a'
+          );
+          if (categories) {
+            for (var i = 0; i < categories.length; i++) {
+              result += categories[i].textContent;
+              if (i < categories.length - 1) {
+                result += '|';
+              }
+            }
+          }
+          return result;
+        } catch (e) {
+          console.warn(e);
+        }
+      },
+      getBlogCollectionSet: function () {
+        try {
+          var result = '';
+          var collectionSet = document.querySelectorAll(
+            '.tags .collection-tags a'
+          );
+          var categoriesArray = siteData.getBlogCategories().split('|');
+          if (collectionSet) {
+            for (var i = 0; i < collectionSet.length; i++) {
+              if (
+                categoriesArray.indexOf(collectionSet[i].textContent) === -1
+              ) {
+                result += collectionSet[i].textContent;
+                if (i < collectionSet.length - 1) {
+                  result += '|';
+                }
+              } else {
+                if (i === collectionSet.length - 1) {
+                  result = result.slice(0, -1);
+                }
+              }
+            }
+          }
+          return result;
+        } catch (e) {
+          console.warn(e);
+        }
+      },
+    };
+  })();
+
+  var canonical = document.querySelectorAll('link[rel="canonical"]')
+    ? document.querySelectorAll('link[rel="canonical"]')[0].href
+    : '';
+      window.adobeDataLayer = window.adobeDataLayer || [];
+      window.adobeDataLayer.push({
+        event: "initialState",
+        user: {
+          mcid: 'Anonymous',
+          clientCountry: '',
+          authState: document.cookie.includes('unifiedloggedinuser') ? 'true' : 'false',
+        },
+        page: {
+          pageID: ":content:wd\u002Dforms:en\u002Dus:sales:sales\u002Dcontact:form",
+          pageName: "forms:en\u002Dus:sales:sales\u002Dcontact:form",
+          pageInstanceID:
+            "form:production:publisher",
+          pageType:
+            canonical && canonical.match(/[4-5]\d\d.html/g)
+              ? 'ErrorPage'
+              : "form",
+          referringURL: document.referrer,
+          destinationURL: document.location.href,
+          abbreviatedURL: document.location.origin + document.location.pathname,
+          breadCrumbs: siteData.getBreadcrumbs(),
+          siteName: document.location.hostname,
+          primaryCategory: "forms",
+          channel:
+            "forms" +
+            ':' +
+            "en\u002Dus" +
+            ':' +
+            "sales",
+          country: "us",
+          language: "en\u002Dus",
+        },
+        tags: {
+          application: "" ? "".replace(/,/g, '|') : undefined,
+          industry: "" ? "".replace(/,/g, '|') : undefined,
+          assettype: "" ? "".replace(/,/g, '|') : undefined,
+          topic: "" ? "".replace(/,/g, '|') : undefined,
+          businesssize: "" ? "".replace(/,/g, '|') : undefined,
+          businessoutcome: "" ? "".replace(/,/g, '|') : undefined,
+          scoreable: "" ? "".replace(/,/g, '|') : undefined,
+          productFocus: "" ? "".replace(/,/g, '|') : undefined,
+          implicitBANT: "" ? "".replace(/,/g, '|') : undefined,
+          explicitBANT: "" ? "".replace(/,/g, '|') : undefined,
+          buyerJourneyStage: "" ? "".replace(/,/g, '|') : undefined,
+          primaryTopic: ""  ? "".replace(/,/g, '|') : undefined,
+          secondaryTopic: ""  ? "".replace(/,/g, '|') : undefined,
+          internalTags: "" ? "".replace(/,/g, '|') : undefined,
+        },
+        blog: {
+          category: siteData.getBlogCategories() ? siteData.getBlogCategories() : undefined,
+          collectionSet: siteData.getBlogCollectionSet() ? siteData.getBlogCollectionSet() : undefined,
+        }
+      })
+
+  document.dispatchEvent(new CustomEvent('digitalDataReady', {}));
+</script>
+
+
+
+
+  
+    
+<link rel="stylesheet" href="/etc.clientlibs/wd-forms/clientlibs/wd-forms-react.ACSHASHf542a6d35e66ed5da2721fd6df49d024.css" type="text/css">
+
+
+
+
+
+<script src="https://prod-unifiedlogin.mktg.workday.com/scripts/detect.js" defer></script>
+<!--/* Adobe Launch enviroment specific launch library-->
+
+
+
+
+ 
+  <script fetchpriority="high" async src="//assets.adobedtm.com/launch-EN5d68e0c9d9414f648a1f2ba8fe6e162b.min.js"></script> 
+
+
+<link id="mktoForms2BaseStyle" rel="stylesheet" type="text/css" href=""/>
+<link id="mktoForms2ThemeStyle" rel="stylesheet" type="text/css" href=""/>
+
+    
+    
+    
+
+    
+    
+    
+    
+
+    
+</head>
+    <body class="page basicpage" id="page-1bddaa3ea5">
+        
+        
+        
+            
+
+
+
+
+            
+
+
+
+            
+<div id="page"></div>
+<div class="hide-consent" style="display: none !important;" id="teconsent"></div>
+
+            
+    
+    
+
+<script type="text/javascript">
+  window.apiDomain = "https:\/\/api.mktg.workday.com";
+</script>
+
+<script type="text/javascript">
+  window.leadsLookupEndpoint =
+    "";
+  window.enableUnifiedLoginPhase2 =
+    "true";
+</script>
+
+
+
+
+  
+    <script defer src="/etc.clientlibs/clientlibs/granite/jquery.ACSHASH1fc733054ddb2e2fcd4a0f763671047b.js"></script>
+<script defer src="/etc.clientlibs/clientlibs/granite/utils.ACSHASH15b6fc27cccbddb5fb7b88a7c6a2c7e4.js"></script>
+<script defer src="/etc.clientlibs/clientlibs/granite/jquery/granite.ACSHASHed0d934d509c9dab702088c125c92b4f.js"></script>
+<script defer src="/etc.clientlibs/foundation/clientlibs/jquery.ACSHASHdd9b395c741ce2784096e26619e14910.js"></script>
+<script defer src="/etc.clientlibs/foundation/clientlibs/shared.ACSHASHe9d9a3990d7779c2e8e3361187f3d36b.js"></script>
+
+  
+  
+    <script src="/etc.clientlibs/wd-forms/clientlibs/wd-forms-react.ACSHASH6478aeccab7334d43ddc9633cf2fa2f1.js"></script>
+
+  
+
+  
+  <script async type="text/javascript" src="https://terra.mktg.workday.com/beta/clientcountry"></script>
+  
+  <div class="cmp-consentprompt consent-prompt master">
+  <h5>Please accept cookies to continue.</h5>
+  <p>This content is blocked due to your cookie preferences for this site.  By clicking here, you accept <a href="https://www.youtube.com/t/terms" target="_blank">YouTube's Terms of Service</a> and <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a>. Workday will save your choice in a session cookie.</p>
+  <div class="cta-wrapper">
+    <div class="cmp-button">
+      <button class="wd-btn btn btn--size__sm consent-prompt-consent">
+        <span class="cmp-button__text">Accept Cookies</span>
+      </button>
+    </div>
+  </div>
+  <div class="cta-wrapper">
+    <div class="cmp-button">
+      <button class="wd-btn btn btn--text__white btn--size__sm consent-prompt-close">
+        <span class="cmp-button__text">Close</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+  <!-- <script data-sly-use.model="com.workday.martech.aem.core.models.ClientlibModel" src="" type="text/javascript"></script> -->
+
+
+    
+
+    
+
+    
+    
+    
